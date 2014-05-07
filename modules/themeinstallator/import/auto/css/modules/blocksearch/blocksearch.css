@@ -1,0 +1,29 @@
+/* block top search */
+#search_block_top {
+	/*float:right;
+	clear:both;
+	margin-top:5px;*/
+	position:absolute;
+	top:22px;
+}
+#search_block_top p {padding:0;}
+#search_block_top #search_query_top {
+	padding:0 5px;
+	height:24px;
+	width:200px;/* 310 */
+	color:#fff;
+	background:#666;
+	border:none;
+}
+
+#search_block_top .button {
+	border:none;
+	border-radius:0;
+	color:#fff;
+	text-transform:uppercase;
+	background:url(../../../img/bg_search_submit.png) repeat-x 0 0 #101010;
+}
+
+/*\*//*/div.madiv {
+#search_block_top .button {top: 5px;} /* hack ie 8 */
+}/* */
