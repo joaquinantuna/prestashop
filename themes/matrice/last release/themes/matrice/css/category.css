@@ -1,0 +1,15 @@
+/* product-list.tpl */
+div.list_product {width:890px; margin-bottom:1em; float:left;}
+.list_product h1 {font-size: 24px; font-family:Rockwell,Georgia,Serif; letter-spacing:normal; color:#4D4D4F; width:100%; margin-top:0.8em}
+.list_product li {float:left; margin-top:1em}
+h2 span {background:none; font-size: 11px; text-transform: lowercase; font-weight: normal; color: #F89520; margin-top:-12px;}
+div.category_img{width:890px;}
+body#category #subcategories {width:950px; float:left}	  
+body#category #subcategories ol {margin:10px 19px 10px 0; float:left; width:260px; padding:1em; border:1px solid #ebebeb}
+body#category #subcategories img {float:left;}	  
+body#category #subcategories li {float:left; width:62%; text-align:left; margin-left:0.8em}  
+body#category #subcategories h6 a {font-size:12px; float:left; border-bottom:1px dotted #ebebeb; padding-bottom:0.3em; margin-bottom:0.5em; color:black; width:100%}
+body#category #subcategories span {font-size:11px; color:#999; text-align:left; float:left}  
+div.cat_desc {margin:0.8em 0; padding-bottom:10px; border-bottom:1px dotted #ebebeb; color:#999}
+body#category  div#subcategories ul.inline_list  li a img {display:inline;}
+a.subcategory_link {color:black; margin-left:0.5em; font-weight:bold}

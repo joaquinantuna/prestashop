@@ -1,0 +1,63 @@
+
+/* adresses */
+div.addresses {
+	position: relative;
+}
+div.addresses h3 { margin: 0 }
+div.addresses p.checkbox input {
+	margin-top: 0!important;
+	margin-top: -3px
+}
+div.addresses ul.item { clear: both }
+ul.address {
+	background-color: white;
+	border:2px solid #636363;
+	float: left;
+	list-style-image: none;
+	list-style-position: outside;
+	list-style-type: none;
+	margin-left: 0.25em;
+	margin-right:2em;
+	padding-bottom: 0.6em;
+	margin-bottom: 1em;
+	position: relative;
+	width: 268px
+}
+ul.alternate_item {
+	background-color: white;
+	border:2px solid #BDC2C9;
+}
+ul.address li {
+	padding-left: 1.4em;
+	margin-top: 0.6em
+}
+li.address_title {
+	margin-top: 0!important;
+	color:white;
+	height: 22px;
+	font-size:11px;
+	text-transform:uppercase;
+	line-height: 1.7em
+}
+ul.item li.address_title {background:#636363; font-weight:normal}
+ul.alternate_item li.address_title {background:#BDC2C9}
+li.address_name,
+ li.address_update a,
+ li.address_delete a { color:#333 }
+li.address_name {color:black; font-weight:bold}
+ li.address_company { font-weight: bold; color:black }
+li.address_update,
+ li.address_delete {
+	background: transparent url(../img/bullet.gif) no-repeat 0 0.1em!important;
+	background: transparent url('../img/bullet.gif') no-repeat 0 0.1em;
+	margin-left: 1.4em;
+}
+#center_column .address_add { padding:0 0 1em 2em }
+input#submitaddress {background:#ef5057; border:none; padding:4px; font-size:11px; color:white; font-weight:bold; text-transform:uppercase; width:auto; cursor:pointer}
+form#sendOrderMessage {clear:both; margin-bottom:1em}
+form#sendOrderMessage p {text-transform:uppercase; color:#999; font-size:10px; margin:0}
+form#sendOrderMessage input#submitMessage  {background:#ef5057; border:none; padding:4px; font-size:11px; color:white; font-weight:bold; text-transform:uppercase; cursor:pointer}
+
+div#adresses_infos {margin-bottom:1em}
+div#adresses_infos h4 { font-size:11px; text-transform:uppercase; color:black; padding:0; margin:0}
+div#adresses_infos p {text-transform:uppercase; color:#999; font-size:10px; margin:0}

@@ -1,0 +1,98 @@
+
+--------------------------------------------------
+THEME MATRICE - PrestaShop™ 1.4.0.17
+http://prestashop.com
+http://prestaplayers.com
+--------------------------------------------------
+
+
+--------------------------------------------------
+DISTRIBUTION SOUS LICENCE CREATIVE COMMONS
+http://creativecommons.org/licenses/by-sa/2.0/fr/
+--------------------------------------------------
+
+
+--------------------------------------------------
+INSTALLATION VIA L'INSTALLATEUR DE THEMES
+--------------------------------------------------
+
+[1]. Sauvegarde : si vous utilisez déjà des modules identiques à ceux inclus dans le zip, faire impérativement une sauvegarde
+
+[2]. Aller dans >admin >modules > module "Importer / Exporter un thème v1.3 par PrestaShop " >cliquer sur configurer
+
+[3]. Choisir "Importer à partir de l'ordinateur" >charger le fichier matrice.zip >suivre les étapes s'installation
+     (recommandé : laisser les options par défaut telles quelles )
+
+[4]. Allez dans >préférences >appareance >appliquer le thème "martice"
+
+
+[NB]. - Pour ajouter des categories dans les slides de la page d'accueil, 
+        éditez le fichier "votreboutique/themes/matrice/modules/editorial/editorial.tpl"
+
+
+--------------------------------------------------
+INSTALLATION MANUELLE
+--------------------------------------------------
+
+[1]. Dézipper le fichier
+
+[2]. Déplacer le fichier "themes/matrice" dans le fichier "votreboutique/themes"
+
+[3]. Installer le template à partir du Back Office ">preférences >apparences" appliquer le theme matrice
+
+[4]. Installer les 3 modules du zip modules/ "blocktopmenu" "blocklangcurr" "promotions"
+
+[5]. Voir la capture d'écran "hooks.jpg" pour l'emplacement des modules
+
+
+--------------
+MISES EN GARDE
+--------------
+
+prestaplayers.com décline toute responsablité de 
+dommage suite à des manipulations érronées
+
+
+
+--------------------------------------------------
+INSTALL VIA BACK OFFICE 
+--------------------------------------------------
+
+[1]. Back up : in you are using some of of the modules included in the zip, please to make a backup
+
+[2]. Go to >admin >modules >Import/export a theme v1.3 by PrestaShop >click in configure
+
+[3]. Choose "Import from your computer" option, then upload the matrice.zip file >follow the install instructions
+     (let the default options)
+
+[4]. go to >preferences >Appearance apply matrice theme
+
+
+
+
+--------------------------------------------------
+MANUAL TO INSTALL
+--------------------------------------------------
+
+[1]. Unzip the file
+
+[2]. Move the template file "themes/matrice" to "yourshop/themes"
+
+[3]. Apply the template in the Back Office ">preferences >Appearance" apply matrice theme
+
+[4]. Install the 3 module of the ZIP modules/"blocktopmenu" "blocklangcurr" "promotions"
+
+[5]. check the "hooks.jpg" to see how to transplante the modules on the different blocks
+
+---------
+IMPORTANT
+---------
+
+prestaplayers.com decline all responsabilty, 
+if the installation of this template 
+cause dommages on your shop
+
+
+
+
+
